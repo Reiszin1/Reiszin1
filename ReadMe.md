@@ -1,5 +1,5 @@
-# Hello! I'm Tiago
-#  About Me
+## Hello! I'm Tiago :)
+#### About Me
 * ❤️ I love planing and creating projects
 * 📚 I’m currently studying data science<br>
 * 🏫 I'm currently studying Systems Analysis and Development at college
