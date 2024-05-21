@@ -1,7 +1,8 @@
-# Hello! I'm tiago
+# Hello! I'm Tiago
 #  About Me
+* ❤️ I love planing and creating projects
 * 📚 I’m currently studying data science<br>
-* 🏫 I'm currently studying Systems Analysis and Development at the Faculty
+* 🏫 I'm currently studying Systems Analysis and Development at college
 
 <div>
   <img height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> 
