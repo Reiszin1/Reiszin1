@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Tiago
+# 👋 Olá, eu sou o Tiago 
 
 💻 Desenvolvedor Back-End | 🚀 Entusiasta em Data Science | 🎯 Criador de Projetos  
 
@@ -28,7 +28,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="30" title="Power BI"/>
+</div>
+
+### ⚡ Automação
+<div>
+  <img src="https://n8n.io/favicon-32x32.png" height="30" title="n8n"/>  
 </div>
 
 ### 🎨 Front-End
