@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Sobre mim
 - ❤️ Apaixonado por planejar, criar e automatizar projetos  
-- 📊 Estudando **Ciência de Dados** e **Análise de Sistemas**  
+- 📊  Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Paulista - UNIP 
 - ⚡ Interesse em **Automação, APIs, Integrações com IA e Data Engineering**  
 - 🌍 Sempre em busca de desafios que unam **programação + dados + impacto real**  
 
