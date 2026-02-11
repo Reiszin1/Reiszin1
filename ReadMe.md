@@ -64,14 +64,13 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <img 
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Reiszin1&theme=tokyonight&hide_border=true&count_private=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Reiszin1&theme=tokyonight&hide_border=true&count_private=true" 
     height="160"
   />
   <img 
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Reiszin1&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Reiszin1&layout=compact&theme=tokyonight&hide_border=true" 
     height="160"
   />
 </div>
-
 
 ✨ *“Transformando dados e código em soluções reais.”*  
